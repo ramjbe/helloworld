@@ -4,6 +4,6 @@ changes made on develop 1
 
 changes made on branch 1
 
-version 2.0.0 changes  
+version 2.0.0 changes  version 2.0.1 hotfix changes includedf
 
 working on version 3.0.0
